@@ -83,7 +83,7 @@ if(isset($_POST['insert'])){
     <input type="checkbox" name="hobby" id="hobby4" value="Coding"  />
     <label for="hobby4">Coding</label>
   </div>
-  <button type="submit" name="insert" value="login">Log In</button>
+  <button type="submit" name="insert" value="login">Submit</button>
 </form>
 </body>
 </html>
